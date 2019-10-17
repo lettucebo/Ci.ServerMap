@@ -4,6 +4,7 @@
     <TargetFramework>netstandard1.3</TargetFramework>
     <AssemblyName>Ci.ServerMap</AssemblyName>
     <RootNamespace>Ci.ServerMap</RootNamespace>
+    <Version>0.0.1</Version>
   </PropertyGroup>
 
 </Project>
